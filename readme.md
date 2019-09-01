@@ -1,7 +1,10 @@
 # PASSWORD LOCKER
 ## Author
-## Description
 
+# Fidel Omondi
+
+## Description
+   This is a python terminal application that allows a user to generate and store passwords for various accounts.
 ## Installation
 
 * Clone this repository to your local computer.
